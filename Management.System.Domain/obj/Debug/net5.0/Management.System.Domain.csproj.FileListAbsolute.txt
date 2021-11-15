@@ -1,0 +1,12 @@
+C:\Users\romad\source\repos\Management-System\Management.System.Domain\obj\Debug\net5.0\Management.System.Domain.csproj.AssemblyReference.cache
+C:\Users\romad\source\repos\Management-System\Management.System.Domain\obj\Debug\net5.0\Management.System.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romad\source\repos\Management-System\Management.System.Domain\obj\Debug\net5.0\Management.System.Domain.AssemblyInfoInputs.cache
+C:\Users\romad\source\repos\Management-System\Management.System.Domain\obj\Debug\net5.0\Management.System.Domain.AssemblyInfo.cs
+C:\Users\romad\source\repos\Management-System\Management.System.Domain\obj\Debug\net5.0\Management.System.Domain.csproj.CoreCompileInputs.cache
+C:\Users\romad\source\repos\Management-System\Management.System.Domain\bin\Debug\net5.0\Management.System.Domain.deps.json
+C:\Users\romad\source\repos\Management-System\Management.System.Domain\bin\Debug\net5.0\Management.System.Domain.dll
+C:\Users\romad\source\repos\Management-System\Management.System.Domain\bin\Debug\net5.0\ref\Management.System.Domain.dll
+C:\Users\romad\source\repos\Management-System\Management.System.Domain\bin\Debug\net5.0\Management.System.Domain.pdb
+C:\Users\romad\source\repos\Management-System\Management.System.Domain\obj\Debug\net5.0\Management.System.Domain.dll
+C:\Users\romad\source\repos\Management-System\Management.System.Domain\obj\Debug\net5.0\ref\Management.System.Domain.dll
+C:\Users\romad\source\repos\Management-System\Management.System.Domain\obj\Debug\net5.0\Management.System.Domain.pdb

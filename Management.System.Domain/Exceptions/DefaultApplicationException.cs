@@ -33,5 +33,3 @@ namespace Management.System.Domain.Exceptions
         }
     }
 }
-© 2021 GitHub, Inc.
-    Term
